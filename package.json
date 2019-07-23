@@ -1,0 +1,22 @@
+{
+  "name": "gitmail",
+  "version": "1.0.0",
+  "description": "Find a GitHub user's email",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattIPv4/gitmail.git"
+  },
+  "author": "Matt (IPv4)",
+  "license": "AGPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/MattIPv4/gitmail/issues"
+  },
+  "homepage": "https://github.com/MattIPv4/gitmail#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}

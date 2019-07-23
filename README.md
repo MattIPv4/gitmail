@@ -1,21 +1,15 @@
 <!-- Source: https://github.com/MattIPv4/template/blob/master/README.md -->
 
 <!-- Title -->
-<h1 align="center" id="Template">
-    <!-- Text only -->
-    <!-- Template -->
-    <!-- or, Image logo -->
-    <img src="https://via.placeholder.com/500x60.png?text=Template" alt="Template" width="500"/>
+<h1 align="center" id="Gitmail">
+   Gitmail
 </h1>
 
 <!-- Tag line -->
-<h3 align="center">The template README (and other files) for my GitHub repositories.</h3>
+<h3 align="center">Find a GitHub user's email.</h3>
 
 <!-- Badges -->
 <p align="center">
-    <a href="https://shields.io/" target="_blank">
-        <img src="https://img.shields.io/badge/style-flat--square-green.svg?style=flat-square" alt="Style"/>
-    </a>
     <a href="http://patreon.mattcowley.co.uk/" target="_blank">
         <img src="https://img.shields.io/badge/patreon-IPv4-blue.svg?style=flat-square" alt="Patreon"/>
     </a>
@@ -29,7 +23,7 @@
 <!-- Content -->
 ## Hello
 
-This repository stores my template README file along with other useful default & template files for my GitHub repositories.
+A simple little tool to get emails associated with a user on GitHub based on their public activity and profile.
 
 <!-- Contributing -->
 ## Contributing
@@ -62,6 +56,7 @@ Need support with this project, have found an issue or want to chat with others 
 Not found what you need here?
 * If you have an issue, please create a GitHub issue here to report the situation, include as much detail as you can!
 * _or,_ You can join our Slack workspace to discuss any issue, to get support for the project or to chat with contributors and myself:
+
 <a href="http://slack.mattcowley.co.uk/" target="_blank">
     <img src="https://img.shields.io/badge/slack-MattIPv4-blue.svg?logo=slack&logoWidth=30&logoColor=blue&style=popout-square" alt="Slack" height="60">
 </a>

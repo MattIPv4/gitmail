@@ -25,6 +25,20 @@
 
 A simple little tool to get emails associated with a user on GitHub based on their public activity and profile.
 
+<!-- Testing -->
+## Running the script
+
+### Requirements
+- Javascript Engine - Eg: Node (version >10.x)
+  - Install using `sudo apt-get install nodejs`
+- Or use any JS engine of your choice like Mozilla's Rhino, SpiderMonkey etc.
+
+1. Clone this repository `git clone https://github.com/MattIPv4/gitmail.git`
+2. Change to /src directory `cd ./src`
+3. Open the file main.js with a text editor or with nano using `nano main.js`
+4. Edit the last line to change `findEmails('MattIPv4')` to `findEmails('USER_NAME_ON_GITHUB')` for the user whose email you want to find.
+5. Save changes and run the script using your JS engine. For NodeJS, run `node main.js`
+
 <!-- Contributing -->
 ## Contributing
 

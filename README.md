@@ -29,9 +29,8 @@ A simple little tool to get emails associated with a user on GitHub based on the
 ## Running the script
 
 ### Requirements
-- Javascript Engine - Eg: Node (version >10.x)
+- Node (>10.x)
   - Install using `sudo apt-get install nodejs`
-- Or use any JS engine of your choice like Mozilla's Rhino, SpiderMonkey etc.
 
 1. Clone this repository `git clone https://github.com/MattIPv4/gitmail.git`
 2. Change to /src directory `cd ./src`

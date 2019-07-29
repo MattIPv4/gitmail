@@ -26,11 +26,10 @@
 A simple little tool to get emails associated with a user on GitHub based on their public activity and profile.
 
 <!-- Testing -->
-## Running the script
-
-### Requirements
+## Requirements
 - Node (>10.x)
   - Install using `sudo apt-get install nodejs`
+
 
 <!-- Contributing -->
 ## Contributing
